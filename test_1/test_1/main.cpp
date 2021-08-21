@@ -28,5 +28,6 @@ int main(void) {
 	else {
 		cout << "月份输入不正确" << endl;
 	}
+	system("pasue");
 	return 0;
 }
